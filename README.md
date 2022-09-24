@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:https://github.com/markuscoding/profile-card-component-main
-- Live Site URL:https://markuscoding.github.io/profile-card-component-main/
+- Solution URL:https://github.com/markuscoding/product-preview-card-component
+- Live Site URL:https://markuscoding.github.io/product-preview-card-component/
 
 ### Screenshot
 
